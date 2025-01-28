@@ -1,3 +1,3 @@
 # sample123
-this is my first opas lab 
+this is my first ops lab 
 created a repo
